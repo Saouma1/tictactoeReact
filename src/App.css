@@ -115,3 +115,8 @@ button:hover {
   animation: confetti 2s linear infinite;
   /* Each confetti piece will need individual styling for position and delay */
 }
+
+.square.highlight {
+  background-color: yellow; /* Choose your preferred highlight color */
+  color: black;
+}
